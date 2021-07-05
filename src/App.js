@@ -20,7 +20,7 @@ function Test() {
         Edit <code>src/App.js</code> and save to reload.
       </p>
       <p>input is {name}</p>
-      <button onClick={Focus}>Focus</button>{" "}
+      <button onClick={Focus}>Focus</button>
       {/* <div>I rendered {inputRef.current} times</div> */}
       {/* <div>I render {renderCount.current} times</div> */}
     </>
